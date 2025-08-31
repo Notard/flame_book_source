@@ -1,0 +1,1 @@
+bulletFireSubscription = EventBus().on<BulletFireEvent>(onBulletFireEvent);

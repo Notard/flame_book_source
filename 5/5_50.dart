@@ -1,0 +1,1 @@
+EventBus().subscribe(addAttackPowerEvent, (addAttackPower));

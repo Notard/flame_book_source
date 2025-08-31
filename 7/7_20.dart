@@ -1,0 +1,1 @@
+class BulletPool extends PositionComponent with HasGameRef {

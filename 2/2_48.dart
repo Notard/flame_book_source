@@ -1,0 +1,12 @@
+Vector2 chracterPosition = Vector2(0, 0);
+Vector2 targetPosition = Vector2(3, 2);
+Vector2 direction = targetPosition - chracterPosition;
+double length = direction.length;
+Vector2 normalizedDirection = direction.normalized();
+double angle = normalizedDirection.angleTo(Vector2(0, 1));
+print('direction: $direction');
+print('length: $length');
+print('normalizedDirection: $normalizedDirection');
+print('normalizedDirection.length: ${normalizedDirection.length}');
+print('angle: $angle');
+print('angle in degrees: ${angle * 180 / pi}');
