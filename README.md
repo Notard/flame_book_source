@@ -25,27 +25,6 @@
 
 각 챕터의 코드를 실행하기 위해서는 컴퓨터에 **플러터(Flutter) SDK**가 설치되어 있어야 합니다.
 
-1.  **저장소 복제 (Clone)**
-    ```bash
-    git clone [https://github.com/](https://github.com/)Notard/flame_book_source.git
-    ```
-
-2.  **프로젝트 폴더로 이동**
-    실행하고 싶은 챕터의 폴더로 이동합니다. 예를 들어, 4장 '두더지 잡기 게임'을 실행하고 싶다면:
-    ```bash
-    cd flame_book_source/4
-    ```
-
-3.  **패키지 의존성 설치**
-    ```bash
-    flutter pub get
-    ```
-
-4.  **프로젝트 실행**
-    ```bash
-    flutter run
-    ```
-
 <br>
 
 ## 📝 라이선스
