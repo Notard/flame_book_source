@@ -2,6 +2,10 @@
 
 이 저장소는 **[AI와 플레임]** 책에서 다루는 예제 게임들의 전체 소스 코드를 담고 있습니다.
 
+교보: https://product.kyobobook.co.kr/detail/S000219487630
+알라딘: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=388348381
+예스24: https://www.yes24.com/product/goods/182707746
+
 이 책은 플러터(Flutter)의 2D 게임 엔진인 플레임(Flame)을 사용하여, 입문자도 쉽게 따라 할 수 있도록 4가지 미니게임을 단계별로 개발하는 과정을 다룹니다. 각 장에서 배운 내용을 바탕으로 직접 게임을 완성하며 플레임 엔진의 핵심 기능을 익힐 수 있습니다.
 
 <br>
